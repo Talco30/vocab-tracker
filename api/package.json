@@ -1,7 +1,0 @@
-{
-  "name": "vocab-tracker",
-  "private": true,
-  "dependencies": {
-    "openai": "^4.0.0"
-  }
-}
